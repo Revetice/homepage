@@ -97,7 +97,13 @@ header {
   padding-bottom: 50px;
 }
 
+.round-border {
+  border-radius: 25px;
+}
+
+
 .skill-grid {
+  border-radius: 25px;
   padding: 50px 30px;
   height: 25em;
 }
